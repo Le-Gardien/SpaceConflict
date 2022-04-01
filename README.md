@@ -2,4 +2,4 @@
 
 <p>Game in Space discover the Galaxy of Asoria.</p>
 
-<p>This is the future Open Source of SpaceConflict (2013-2021) Project.</p>
+<p>This is the future Open Source of SpaceConflict Project (2013-2021).</p>
