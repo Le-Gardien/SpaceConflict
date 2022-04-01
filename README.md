@@ -1,7 +1,1 @@
-echo "# SpaceConflict" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Le-Gardien/SpaceConflict.git
-git push -u origin main
+# <img height="78px" src="https://spaceconflict.net/files/images/logo/new_small_logoSC.png" alt="SpaceConflict Logo" title="SpaceConflict Logo"/>
